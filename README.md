@@ -1,6 +1,8 @@
 # oc20
 ## Informatique
 * créer un code
+* je n'arrive pas à mettre une image
+### Mon image:
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
