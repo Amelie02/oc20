@@ -3,6 +3,8 @@
 * créer un code
 * je n'arrive pas à mettre une image
 ### Mon image:
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.playmobil.com%2Fi%2Fplaymobil%2Fcategory_navigation_ScoobyDoo%3Flocale%3Dfr-CH%2Cfr%2C*%26%24category_image%24%26category-thumb%3D%2Fi%2Fplaymobil%2Fcategory_thumb_ScoobyDoo%26strip%3Dtrue%26qlt%3D80%26fmt.jpeg.chroma%3D1%2C1%2C1%26unsharp%3D0%2C1%2C1%2C7%26fmt.jpeg.interlaced%3Dtrue&imgrefurl=https%3A%2F%2Fwww.playmobil.ch%2Ffr%2Fboutique-en-ligne%2Fthemes-playmobil%2Fscooby-doo%2521&tbnid=wqCH7bxGDIj0gM&vet=12ahUKEwiq0ZSr1KzuAhUByqQKHaRiDlMQMygEegUIARC-AQ..i&docid=Hx12KErtM-IROM&w=200&h=273&q=scooby%20doo&client=safari&ved=2ahUKEwiq0ZSr1KzuAhUByqQKHaRiDlMQMygEegUIARC-AQ
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
