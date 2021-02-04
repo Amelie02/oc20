@@ -16,7 +16,7 @@ while running:
             running = False
 
     screen.fill(GRAY)
-    pygame.draw.rect(screen, GREEN, rect, 4)
+    pygame.draw.rect(screen, BLUE, rect, 4)
 
     for pt in pts:
         draw_point(pt, eval('rect.'+pt))

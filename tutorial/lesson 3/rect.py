@@ -3,7 +3,7 @@ from pygame.locals import *
 from random import randint
 
 width = 500
-height = 200
+height = 500
 
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
