@@ -9,7 +9,7 @@
 - permet de sauvegarder/charger un dessin
 
 ## Description
-Decrivez ce que votre éditeur peut faire
+Grâce à cet éditeur graphique, nous pouvons faire tourner pacman et le cadre qui l'entoure ainsi que changer la couleur du background 
 
 ## Interface
 
@@ -17,12 +17,19 @@ Capture d'écran
 
 ## Raccourcis clavier
 
-Ces raccourcis permettent d'insérer des formes 
-- R pour insérer un
-- L pour insérer un
-- C pour insérer
+Ces raccourcis permettent de changer la couleur de fond: 
+- k pour noir 
+- r pour rouge
+- g pour vert
+- b pour bleu
+- y pour jaune
+- c pour cian
+- m pour magenta
+- w pour blanc
 
-Pour changer l'épaisseur
-- Alt+1 pour ligne d'épaisseur 1
-- Alt+0 pour figurer remplie
-- Alt+2 pour ligne d'épaisseur 2
+Pour déplacer l'image et son cadre:
+cliquer sur la souris en la déplaçant
+
+Pour changer la direction de l'image et du cadre:
+- h pour horizontal
+- v pour vertical
