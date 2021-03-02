@@ -1,5 +1,4 @@
 import pygame
-import math, sys, os
 from pygame.locals import *
 
 BLACK = (0, 0, 0)
@@ -22,8 +21,6 @@ screen = pygame.display.set_mode((w, h))
 running = True
 background = BLACK
 
-module = sys.modules['__main__']
-path, name = os.path.split(module.__file__)
 path = os.path.join(path, 'pacman2.png')
 
 img0 = pygame.image.load(path)
@@ -68,16 +65,15 @@ while running:
 #         elif event.type == MOUSEMOTION and moving:
 #             rect.move_ip(event.rel)
     
-        elif event.type == KEYDOWN:
-            if event.key == K_h:
-                img = pygame.transform.flip(img, True, False)
-            elif event.key == K_v:
-                img = pygame.transform.flip(img, False, True)
+        elif event.key == K_h:
+            img = pygame.transform.flip(img, True, False)
+        elif event.key == K_v:
+            img = pygame.transform.flip(img, False, True)
                 
 
     screen.fill(background)
     screen.blit(img, rect)
-    pygame.draw.rect(screen, key_dict[event.type.key], rect, 2)
+    pygame.draw.rect(screen, key_dict[event.key], rect, 2)
     pygame.display.update()
 
 pygame.quit()
