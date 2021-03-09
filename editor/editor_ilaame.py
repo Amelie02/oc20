@@ -45,6 +45,12 @@ class Shape:
             pygame.draw.rect(screen, self.color, self.rect, self.width)
         if self.type == 'e':
             pygame.draw.ellipse(screen, self.color, self.rect, self.width)
+            
+            
+    def do_event(self, event):
+        if event.type == KEYDOWN:
+            if event.key in dir:
+                self.rect.move_ip(dir[event.key])
 
 running = True
 
@@ -78,7 +84,9 @@ while running:
                 color = GRAY
             elif event.key == K_w:
                 color = WHITE
-                
+            
+            
+            
             elif event.key == K_BACKSPACE:
                 if len(shapes) >1:
                     shapes.pop()
@@ -103,10 +111,10 @@ while running:
             size = end[0]-start[0], end[1]-start[1]
             shapes[-1].rect.size = size
             
-        elif event.type == KEYDOWN:
-            if event.key in dir:
-                v = dir[event.key]
-                rect.move_ip(v)
+        # pour le dernier élément (en train d'etre édité)
+        if len(shapes) > 0:
+            shapes[-1].do_event(event)
+            
 
     screen.fill(GRAY)
     for s in shapes[1:]: 
