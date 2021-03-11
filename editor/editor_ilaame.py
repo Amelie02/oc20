@@ -16,7 +16,7 @@ CYAN = (0, 255, 255)
 MAGENTA = (255, 0, 255)
 
 pygame.init()
-screen = pygame.display.set_mode((400, 400))
+screen = pygame.display.set_mode((700, 500))
 
 start = (0, 0)
 size = (0, 0)
