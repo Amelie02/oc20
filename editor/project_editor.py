@@ -30,6 +30,11 @@ img0.convert()
 rect0 = img0.get_rect()
 pygame.draw.rect(img0, RED, rect0, 1)
 
+# rect = Rect(50, 60, 250, 100)
+# rect0 = Rect(150, 160, 200, 180)
+# rect = rect0.copy()
+# r1 = Rect(100, 20, 80, 170)
+
 center = w//2, h//2
 img = img0
 rect = img.get_rect()
