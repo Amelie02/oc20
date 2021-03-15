@@ -26,8 +26,9 @@ img = pygame.image.load('pacman.png')
 img.convert()
 rect = img.get_rect()
 rect.center = w//2, h//2
-image = []
+# image = []
 moving = False
+screen.fill(event.key)
 
 angle = 0
 
