@@ -117,7 +117,7 @@ while running:
                 color = MAGENTA
             elif event.key == K_c:
                 color = CYAN
-            elif event.key == K_k:
+            elif event.key == K_q:
                 color = BLACK
             elif event.key == K_s:
                 color = GRAY
