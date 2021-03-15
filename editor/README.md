@@ -23,8 +23,8 @@ clic gauche puis déplacer la souris pour dessiner un rectangle
 #### Ces raccourcis permettent de faire apparaître des objets:
 - r pour un rectangle
 - e pour un ovale
-- i pour une image puis inscrire le nom de l'image que l'on souhaite
-  "pacman.png" pour le fantôme jaune et "pacman2.png" pour le fantôme rouge
+- i pour une image puis inscrire dans le shell le nom de l'image que l'on souhaite
+  ("pacman.png" pour le fantôme jaune et "pacman2.png" pour le fantôme rouge)
 
 #### Ces raccourcis permettent de changer la couleur du fond
 - 9 pour noir
