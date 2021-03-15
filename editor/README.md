@@ -49,3 +49,7 @@ clic gauche puis déplacer la souris pour dessiner un rectangle
 - flèche du bas pour déplacer l'image vers le bas
 - flèche de droite pour déplacer l'image vers la droite
 - flèche de gauche pour déplacer l'image vers la gauche
+
+
+### Conclusion
+Cet éditeur graphique 
