@@ -13,7 +13,7 @@ Grâce à cet éditeur graphique, nous pouvons dessiner des rectangles et des ov
 
 ### Interface
 
-Capture d'écran
+![exemple de l'éditeur graphique]()
 
 ### Raccourcis souris
 clic gauche puis déplacer la souris pour dessiner un rectangle
