@@ -69,5 +69,6 @@ Notre code va nous permettre de faire un projet plus grand, en utilisant ses fon
 
 La partie du code dont on est le plus fière est le fait de pouvoir créer des formes en changeant leurs tailles et leurs couleurs.
 
+Nous pourrions tout de même rajouter du texte mais aussi du son, par exemple, pour rendre meilleur notre code.
  
 
