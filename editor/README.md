@@ -13,7 +13,7 @@ Grâce à cet éditeur graphique, nous pouvons dessiner des rectangles et des ov
 
 ### Interface
 
-Capture d'écran
+![exemple de l'éditeur graphique](oc/capture_editor.JPG)
 
 ### Raccourcis souris
 clic gauche puis déplacer la souris pour dessiner un rectangle
@@ -64,4 +64,11 @@ clic gauche puis déplacer la souris pour dessiner un rectangle
 - v pour mettre l'image sans dessus-dessous
 
 ### Conclusion
+
+Notre code va nous permettre de faire un projet plus grand, notre futur jeu, en effet nous pourrions réutiliser la création des formes.
+
+La partie du code dont on est le plus fière est le fait de pouvoir créer des formes en changeant leurs tailles et leurs couleurs.
+
+Nous pourrions tout de même rajouter du texte mais aussi du son, par exemple, pour rendre meilleur notre code.
+ 
 
