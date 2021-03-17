@@ -65,7 +65,7 @@ clic gauche puis déplacer la souris pour dessiner un rectangle
 
 ### Conclusion
 
-Notre code va nous permettre de faire un projet plus grand, en utilisant ses fonctions.
+Notre code va nous permettre de faire un projet plus grand, notre futur jeu, en effet nous pourrions réutiliser la création des formes.
 
 La partie du code dont on est le plus fière est le fait de pouvoir créer des formes en changeant leurs tailles et leurs couleurs.
 
