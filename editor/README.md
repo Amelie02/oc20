@@ -13,7 +13,7 @@ Grâce à cet éditeur graphique, nous pouvons dessiner des rectangles et des ov
 
 ### Interface
 
-![exemple de l'éditeur graphique](img/capture.jpeg)
+![Exemple de l'éditeur graphique](img/capture.jpeg)
 
 ### Raccourcis souris
 clic gauche puis déplacer la souris pour dessiner un rectangle
