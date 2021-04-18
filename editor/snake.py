@@ -178,7 +178,7 @@ pygame.init()
 screen = pygame.display.set_mode((500, 500))             #<- mode fenêtré
 #screen = pygame.display.set_mode((500, 500),FULLSCREEN) #<- mode plein écran
 
-californiaFont = pygame.font.Font("./California.ttf", 32)
+# californiaFont = pygame.font.Font("./California.ttf", 32)
 
 cartoonSnake = pygame.image.load("./cartoon_snake.png").convert_alpha()
 
