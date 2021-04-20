@@ -8,3 +8,7 @@ Il suffit de déplacer la barre horizontale de droite à gauche pour ne pas fair
 
 ## Les classes
 Nous avons imaginé faire une classe *briques* et une sous-classe *briques cassées*, une classe *barre*, et une classe *balle*
+
+
+#### Notre diagramme de classes
+https://app.diagrams.net/#HAmelie02%2Foc20%2Fmain%2Fprojet%20jeu%2Fcasse-briques
