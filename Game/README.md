@@ -17,6 +17,8 @@ Nous avons imaginé faire une classe *briques* et une sous-classe *briques cass�
 - **move**: sert à déplacer un objet, ici le plateau et la balle, de haut en bas ou de gauche à droite. 
 - **pop**: sert à faire disparâitre les brique déjà brisées.
 
+![Capture d’écran 2021-04-22 à 14 19 18](https://user-images.githubusercontent.com/77777393/115713002-cb2a9a00-a375-11eb-820f-8f43bbf92bef.png)
+
 
 #### Notre diagramme de classes
 https://app.diagrams.net/#HAmelie02%2Foc20%2Fmain%2FGame%2Fcasse-briques.xml
