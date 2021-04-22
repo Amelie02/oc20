@@ -11,7 +11,7 @@ Il suffit de déplacer le plateau de droite à gauche pour ne pas faire tomber l
 ## Les classes et méthodes
 Nous avons imaginé faire une classe *briques* et une sous-classe *briques cassées*, une classe *plateau*, et une classe *balle*. Pour la classe *briques* nous allons utiliser la méthode *break itself*, ensuite nous utiliserons la méthode *bounce* et *move* (right/left) pour le *plateau*, la *balle* aura les même méthodes que le *plateau* mais se déplacera de haut en bas, *move(up/down)* et en plus elle aura la méthode *pop* comme celle de la *brique-cassée*.
 
-- **break itself**: sert à briser la brique
+- **break**: sert à briser la brique
 - **bounce**: sert à faire rebondir la balle
 - **move**: sert à déplacer un objet, ici le plateau et la balle, de haut en bas ou de gauche à droite. 
 - **pop**: sert à faire disparâitre les brique déjà brisées.
