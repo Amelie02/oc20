@@ -20,4 +20,4 @@ Nous avons imagin√© faire une classe *briques* et une sous-classe *briques cass√
 
 
 #### Notre diagramme de classes
-https://app.diagrams.net/#HAmelie02%2Foc20%2Fmain%2Fprojet%20jeu%2Fcasse-briques
+https://app.diagrams.net/#HAmelie02%2Foc20%2Fmain%2FGame%2Fcasse-briques.xml
