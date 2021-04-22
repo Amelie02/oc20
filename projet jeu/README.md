@@ -11,6 +11,8 @@ Il suffit de déplacer le plateau de droite à gauche pour ne pas faire tomber l
 ## Les classes et méthodes
 Nous avons imaginé faire une classe *briques* et une sous-classe *briques cassées*, une classe *plateau*, et une classe *balle*. Pour la classe *briques* nous allons utiliser la méthode *break itself*, ensuite nous utiliserons la méthode *bounce* et *move* (right/left) pour le *plateau*, la *balle* aura les même méthodes que le *plateau* mais se déplacera de haut en bas, *move(up/down)* et en plus elle aura la méthode *pop* comme celle de la *brique-cassée*.
 
+<img width="672" alt="Capture d’écran 2021-04-22 à 12 47 44" src="https://user-images.githubusercontent.com/77777393/115702392-2ace7880-a369-11eb-9e17-9c52c19eae52.png">
+
 
 #### Notre diagramme de classes
 https://app.diagrams.net/#HAmelie02%2Foc20%2Fmain%2Fprojet%20jeu%2Fcasse-briques
